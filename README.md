@@ -1,4 +1,4 @@
-# Sawtooth batches with metamask keys
+# Hyperledger Sawtooth batches with Metamask keys
 
 Run
 ### `npm start`
