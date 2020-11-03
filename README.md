@@ -20,7 +20,7 @@ Another detail is that Metamask and Sawtooth signatures are slighlt different. M
 
 ## References
 
-https://sawtooth.hyperledger.org/docs/core/releases/1.2.6/_autogen/sdk_TP_tutorial_js.html
+https://sawtooth.hyperledger.org/docs/core/releases/1.2.6/_autogen/sdk_submit_tutorial_js.html
 
 https://github.com/ethereum/web3.js/blob/0.20.7/DOCUMENTATION.md
 
